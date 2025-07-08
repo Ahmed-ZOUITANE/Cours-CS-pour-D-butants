@@ -1,7 +1,3 @@
-Voici un **cours d’introduction au langage C#**, bien structuré pour les débutants. Je vais te le présenter en chapitres pour faciliter l'apprentissage. Si tu veux un fichier `.pdf`, `.docx` ou un projet Visual Studio, fais-moi signe !
-
----
-
 # 🌟 Cours C# pour Débutants
 
 ## 🔰 Chapitre 1 : Introduction au C\#
