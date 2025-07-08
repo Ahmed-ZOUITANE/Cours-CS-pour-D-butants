@@ -1,9 +1,5 @@
 # 🌟 Cours C# pour Débutants
 
-Voici le **Chapitre 1 : Introduction au C#** en détail 👇
-
----
-
 # 🧠 Chapitre 1 : Introduction au C\#
 
 ---
