@@ -38,8 +38,9 @@
 ![Texte alternatif](image/2.png)
 3. Donne un nom, par exemple `MonPremierProgramme`.
 4. Clique sur **Créer**.
+![Texte alternatif](image/3.1.png)
 
-
+![Texte alternatif](image/3.png)
 ### ⚙️ Avec la ligne de commande (dotnet CLI) :
 
 ```bash
